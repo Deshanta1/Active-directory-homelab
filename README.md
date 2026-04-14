@@ -106,7 +106,7 @@ This enforces:
 
 ## 🔹 User Deprovisioning (Leaver)
 
-User accounts were disabled and moved to a “Disabled Users” OU to remove access.
+User account disabled and moved to a “Disabled Users” OU to remove access.
 
 ### Account Disabled
 ![Deprovision](images/12-account-disabled.png.png)
@@ -156,8 +156,4 @@ It demonstrates the ability to:
 
 ---
 
-## 🔹 Next Steps
 
-- Perform formal access reviews with audit documentation  
-- Map permissions to NIST controls  
-- Expand into cloud IAM (AWS / Azure)  
